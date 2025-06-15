@@ -1,2 +1,2 @@
 # paste-extension
-Extension to paste text from a file
+Extension to paste template text to textbox's
