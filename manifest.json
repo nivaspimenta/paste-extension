@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Paste Snippets",
+  "version": "1.0",
+  "description": "Context menu to paste custom snippets into inputs.",
+  "permissions": ["contextMenus", "scripting", "activeTab"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_title": "Paste Snippets",
+    "default_icon": "icon.png"
+  }
+}
